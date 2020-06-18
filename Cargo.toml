@@ -1,5 +1,5 @@
 [package]
-name = "julia_set"
+name = "rust_julia_set"
 version = "0.1.0"
 authors = ["Tim de Klijn <timdeklijn@gmail.com>"]
 edition = "2018"
